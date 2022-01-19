@@ -54,6 +54,6 @@ end
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
-gem "unicorn", "~> 6.0", :group => :production
+gem "unicorn", "~> 6.1", :group => :production
 gem "pg", "~> 1.2", :group => :production
 gem "platform_sh_rails", "~> 0.1.12", :group => :production
