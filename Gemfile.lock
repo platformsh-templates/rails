@@ -110,7 +110,7 @@ GEM
     nokogiri (1.13.3)
       mini_portile2 (~> 2.8.0)
       racc (~> 1.4)
-    pg (1.3.4)
+    pg (1.3.5)
     platform_sh (0.2.11)
     platform_sh_rails (0.1.12)
       activerecord-nulldb-adapter
